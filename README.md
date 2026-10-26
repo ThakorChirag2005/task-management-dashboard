@@ -28,10 +28,8 @@ Follow these steps to run the project on your computer.
 
 1. Clone the repository**
 
-git clone YOUR_GITHUB_REPOSITORY_LINK
+ https://github.com/ThakorChirag2005/task-management-dashboard
 
-
-Replace `YOUR_GITHUB_REPOSITORY_LINK` with your actual GitHub repository URL.
 
 2. Open the project folder**
 
