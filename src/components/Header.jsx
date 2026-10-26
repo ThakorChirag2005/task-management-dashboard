@@ -15,8 +15,8 @@ function Header() {
         <div className="profile-avatar">C</div>
 
         <div>
-          <strong>My Workspace</strong>
-          <small>Trainee Developer</small>
+          <strong> Chirag</strong>
+          <small>My Workspace</small>
         </div>
       </div>
     </header>
