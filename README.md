@@ -30,6 +30,7 @@ Follow these steps to run the project on your computer.
 
  https://github.com/ThakorChirag2005/task-management-dashboard
 
+URL = https://thakorchirag2005.github.io/task-management-dashboard/
 
 2. Open the project folder**
 
